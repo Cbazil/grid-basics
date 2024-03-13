@@ -7,7 +7,7 @@
   grid-gap: .5rem;
 }
 
-.span-down {
+.span-next {
   grid-column: 2 span;
 }
 
